@@ -26,7 +26,11 @@ Kali Linux * Parrot * Arch linux.
 
   Запустить: python3 number.py
 
-## Зависимости grap and python3
+#### Зависимости 
+
+pip3 install grab
+
+python3
 
 ### Удачного поиска информации !!!
   
