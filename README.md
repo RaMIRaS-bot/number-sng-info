@@ -10,14 +10,19 @@ Kali Linux * Parrot * Arch linux.
 
 ## Install
 
-git clone https://github.com/Bafomet666/Bigbro
+  git clone https://github.com/Bafomet666/Bigbro
+ 
+  Потом зайти в telegram и подписаться на канал: https://t.me/osint_san_framework
 
-  Далее вам нужно распоковать нужную версию.
+  Далее вам нужно распаковать нужную версию.
 
   cd /number-sng-info
   
   sudo pip3 install -r requerements.txt
 
   Запустить: python3 number.py
+
+
+### Удачного поиска информации !!!
   
 
