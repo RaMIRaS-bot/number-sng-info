@@ -14,7 +14,7 @@ Kali Linux * Parrot * Arch linux.
 
 ## Install
 
-  git clone https://github.com/Bafomet666/Bigbro
+  git clone https://github.com/Bafomet666/number-sng-info
  
   Потом зайти в telegram и подписаться на канал: https://t.me/osint_san_framework
 
