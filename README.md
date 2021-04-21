@@ -2,6 +2,8 @@
 
 Обширная база данных.
 
+![alt tag](https://github.com/Bafomet666/screen/blob/main/infonumber.png)
+
 ## Адаптация под платформы:
 
 Kali Linux * Parrot * Arch linux.
