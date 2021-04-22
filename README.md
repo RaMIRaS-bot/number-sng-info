@@ -1,6 +1,6 @@
 ## Number - SNG - info
 
-### version 0.7 beta
+### version 1.0 beta
 
 Инструмент поиска информации по номеру
 
