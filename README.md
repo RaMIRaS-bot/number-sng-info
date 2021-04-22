@@ -33,6 +33,7 @@ Kali Linux * Parrot * Arch linux.
 
 pip3 install grab
 
+Selenium WebDriver
 
 ### Удачного поиска информации !!!
   
